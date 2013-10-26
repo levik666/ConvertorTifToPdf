@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d81eb0d8-4c92-4def-bef0-bd0f466a02c9" name="Default" comment="Create Utils to convert tif to pdf and test it in Executor class">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/levik/tiftopdf/utils/ConvectorUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConvertorTifToPdf.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/levik/tiftopdf/Executor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itextpdf_5_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="6f20f27c-0ae6-4dc4-955e-d9d5cbfd0e59" name="Rejected commit: Default" comment="Create Utils to convert tif to pdf and test it in Executor class" />
     <ignored path="ConvertorTifToPdf.iws" />
@@ -374,12 +360,17 @@
       <changelist id="d81eb0d8-4c92-4def-bef0-bd0f466a02c9" name="Default" comment="" />
       <created>1382808723971</created>
       <updated>1382808723971</updated>
-      <workItem from="1382808726001" duration="863000" />
+      <workItem from="1382808726001" duration="924000" />
     </task>
+    <task id="LOCAL-00001" summary="Create Utils to convert tif to pdf and test it in Executor class">
+      <created>1382809597603</created>
+      <updated>1382809597603</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="863000" />
+    <option name="totallyTimeSpent" value="924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
