@@ -1,4 +1,4 @@
 ConvertorTifToPdf
 =================
 
-Converter tiff to pdf
+Convertor tiff to pdf
